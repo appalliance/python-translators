@@ -1,0 +1,9 @@
+*.xlsx
+*.pptx
+*.txt
+*.sql
+/.venv
+/csv
+/documents
+/node_modules
+/test_files
