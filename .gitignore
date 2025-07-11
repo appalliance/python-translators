@@ -7,3 +7,4 @@
 /documents
 /node_modules
 /test_files
+.env.*
